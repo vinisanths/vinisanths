@@ -2,14 +2,33 @@
 
 <p align="center">
   💻 Estudante de Programação e Cloud Computing ☁️ | 🍵 Apaixonado por Tecnologia 👨🏿‍💻
-</p><br><br>
+</p><br>
 
-
-## 🚀 Linguagens de Programação
-[![My Skills](https://skillicons.dev/icons?i=java,python,)](https://skillicons.dev)<br><br>
 
 ## 🛠️ Ferramentas e Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=vscode,idea,aws,gcp,mysql,git,github)](https://skillicons.dev)<br><br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" height="40" alt="vscode logo"  />
+</div>
+<br>
+
+![vinisanths's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinisanths&theme=dracula&hide_border=true)
+![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vinisanths&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Contato
 
@@ -18,4 +37,4 @@
 
 
 
-Fique à vontade para entrar em contato comigo para discutir colaborações, projetos interessantes ou qualquer outro assunto relacionado à programação.<br><br>
+Fique à vontade para entrar em contato comigo para discutir colaborações, projetos ou qualquer outro assunto relacionado à programação e tecnologia.<br><br>
