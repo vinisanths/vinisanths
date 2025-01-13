@@ -14,7 +14,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,css,gcp,github,html,idea,java,js,mysql,py,vscode,)](https://skillicons.dev)
 
-![vinisanths's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vinisanths&theme=dracula&hide_border=true)
+
 ![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinisanths&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Contato
