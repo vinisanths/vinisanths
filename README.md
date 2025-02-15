@@ -1,29 +1,45 @@
-<h1 align="center">👋 Olá, meu nome é Vinicius</h1>
+<h1 align="center">👋 Hello, my name is Vinicius</h1>
 
 <p align="center">
-  💻 Estudante de Programação e Cloud Computing ☁️ | 🍵 Apaixonado por Tecnologia 👨🏿‍💻
+  💻 Programming and Cloud Computing Student ☁️ | 🍵 Passionate about Technology and Innovation 👨🏿‍💻
 </p><br>
 
-## ✨ Sobre Mim
+## ✨ About Me
 
-- 🌱 Atualmente, estou aprendendo **Cloud Computing**, **DevOps**, e tecnologias como **AWS**, **Python** e **Java** .
-- 🕹️ Adoro explorar novas formas interativas de mostrar meu progresso.
-- 📚 Transformo problemas em soluções criativas com tecnologia.
-- 🌟 Interessado em contribuir para projetos que impactem positivamente a sociedade.
-## 🛠️ Ferramentas e Tecnologias
-
-[![My Skills](https://skillicons.dev/icons?i=aws,css,gcp,git,github,html,idea,java,js,mysql,py,vscode,)](https://skillicons.dev)
-
-
+- 🕹️ I am currently learning **Cloud Computing**, **Java**, **AWS**, **HTML**, **CSS** and **JavaScript** .
+- 🌱 I love exploring new interactive ways to show my progress.
+- 📚 My purpose is to transform problems into creative solutions with technology.
+- 🌟 Interested in contributing to projects that positively impact society.
+## 🛠️ Tools and Technologies
+## 🔙 Backend & APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+## 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+## ⚙️ DevOps & Tools
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=github&logoColor=white)
+## 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 📊 GitHub Stats
 ![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinisanths&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+## 🎓 Education
 
-## 📫 Contato
+- 🎓 Computer Technician - IFMA
+- 🎓 Quality Management - UEMA
+## 🏆 Certifications
+- 📚 Cloud Practitioner - AWS
+- 📚 Cloud Talent - Proz
+- 📚 AWS Re/Start - Escola Da Nuvem
+## 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinipsantos0@gmail.com)](mailto:vinipsantos0@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-santos-info/)](https://www.linkedin.com/in/vinicius-santos-info/)
 <p> <img src="https://komarev.com/ghpvc/?username=vinisanths&label=Profile%20views&color=0e75b6&style=flat" alt="vinisanths" /> </p>
 
-
-
-Fique à vontade para entrar em contato para discutir colaborações, projetos ou qualquer outro assunto relacionado à programação e tecnologia. 🚀
+Feel free to get in touch to discuss collaborations, projects, or anything else related to programming and technology. 🚀
 
