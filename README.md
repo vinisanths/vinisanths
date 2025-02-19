@@ -12,8 +12,8 @@
 - 🌟 Interested in contributing to projects that positively impact society.
 ## 🛠️ Tools and Technologies
 ## 🔙 Backend & APIs
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+
 ## 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -32,13 +32,15 @@
 - 🎓 Computer Technician - IFMA
 - 🎓 Quality Management - UEMA
 ## 🏆 Certifications
-- 📚 Cloud Practitioner - AWS
+- 📚 Cloud Practitioner - Amazon Web Services
 - 📚 Cloud Talent - Proz
 - 📚 AWS Re/Start - Escola Da Nuvem
+- 📚 English (A1) - IFMA
 ## 📫 Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinipsantos0@gmail.com)](mailto:vinipsantos0@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-santos-info/)](https://www.linkedin.com/in/vinicius-santos-info/)
+ [![Credly Badge](https://img.shields.io/badge/Credly-orange?style=flat-square&logo=credly)](https://www.credly.com/users/vinicius-santos.b3065c0f)
 <p> <img src="https://komarev.com/ghpvc/?username=vinisanths&label=Profile%20views&color=0e75b6&style=flat" alt="vinisanths" /> </p>
 
 Feel free to get in touch to discuss collaborations, projects, or anything else related to programming and technology. 🚀
