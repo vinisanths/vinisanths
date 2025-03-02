@@ -29,12 +29,12 @@
 ![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinisanths&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 ## 🎓 Education
 
-- 🎓 CST - Systems Analysis and Development - Fasul Educacional
+- 🎓 Systems Analysis and Development (Currently) - Fasul Educacional
 - 🎓 Computer Technician - IFMA
 - 🎓 Quality Management - UEMA
 ## 🏆 Certifications
 - 📚 Cloud Practitioner - Amazon Web Services
-- 📚 Cloud Talent - Proz
+- 📚 Cloud Talent (Currently) - Proz
 - 📚 AWS Re/Start - Escola Da Nuvem
 - 📚 English (A1) - IFMA
 ## 📫 Contact
