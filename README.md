@@ -29,6 +29,7 @@
 ![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinisanths&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 ## 🎓 Education
 
+- 🎓 CST - Systems Analysis and Development - Fasul Educacional
 - 🎓 Computer Technician - IFMA
 - 🎓 Quality Management - UEMA
 ## 🏆 Certifications
