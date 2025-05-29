@@ -34,15 +34,16 @@
 - 🎓 Quality Management - UEMA
 ## 🏆 Certifications
 - 📚 Cloud Practitioner - Amazon Web Services
-- 📚 GCCF Academy Brazil - Google Cloud Computing Foundations (Currently)
+- 📚 DPCN (Formação Arquiteto de Soluções AWS) - Escola da Nuvem
+- 📚 AWS Developer - Escola da Nuvem
 - 📚 AWS Re/Start - Escola Da Nuvem
 - 📚 English (A1) - IFMA
-- 📚 DPCN (Formação Arquiteto de Soluções AWS) - Escola da Nuvem
 ## 📫 Contact
 
-[![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinipsantos0@gmail.com)](mailto:vinipsantos0@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-santos-info/)](https://www.linkedin.com/in/vinicius-santos-info/)
- [![Credly Badge](https://img.shields.io/badge/Credly-orange?style=flat-square&logo=credly)](https://www.credly.com/users/vinicius-santos.b3065c0f)
+[![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinipsantos0@gmail.com)](mailto:vinipsantos0@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/vinicius-santos-info/)](https://www.linkedin.com/in/vinicius-santos-info/)
+ [![Credly Badge](https://img.shields.io/badge/Credly-white?style=flat-square&logo=Credly)](https://www.credly.com/users/vinicius-santos.b3065c0f)
+ [![Medium Badge](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium)](https://medium.com/@vinisanths)
 <p> <img src="https://komarev.com/ghpvc/?username=vinisanths&label=Profile%20views&color=0e75b6&style=flat" alt="vinisanths" /> </p>
 
 Feel free to get in touch to discuss collaborations, projects, or anything else related to programming and technology. 🚀
