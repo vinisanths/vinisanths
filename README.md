@@ -35,6 +35,7 @@
 ## 🏆 Certifications
 - 📚 Cloud Practitioner - Amazon Web Services
 - 📚 Solutions Architect Associate - Amazon Web Services
+- 📚 AWS Certified Developer Associate – Amazon Web Services
 - 📚 DPCN (Formação Arquiteto de Soluções AWS) - Escola da Nuvem
 - 📚 AWS Developer - Escola da Nuvem
 - 📚 AWS Re/Start - Escola Da Nuvem
