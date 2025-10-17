@@ -1,52 +1,92 @@
-<h1 align="center">👋 Hello, my name is Vinicius</h1>
+<h1 align="center">☁️ Olá, eu sou o Vinicius Santos</h1>
 
 <p align="center">
-  💻 Programming and Cloud Computing Student ☁️ | 🍵 Passionate about Technology and Innovation 👨🏿‍💻
-</p><br>
+  🚀 DevOps | SRE | Cloud Engineer <br>
+  💻 AWS Certified (SAA, DVA, CCP) | Terraform | Docker | CI/CD | Linux
+</p>
 
-## ✨ About Me
+---
 
-- 🕹️ I am currently learning **Cloud Computing**, **Java**, **AWS**, **GCP**, **HTML**, **CSS** and **JavaScript** .
-- 🌱 I love exploring new interactive ways to show my progress.
-- 📚 My purpose is to transform problems into creative solutions with technology.
-- 🌟 Interested in contributing to projects that positively impact society.
-## 🛠️ Tools and Technologies
-## 🔙 Backend & APIs
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black)
+## 🌩️ Sobre Mim
 
-## 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-## ⚙️ DevOps & Tools
+Sou apaixonado por **Computação em Nuvem, DevOps, Cyber Security e automação**.  
+Possuo  as **certificações AWS** (Cloud Practitioner, Solutions Architect Associate e Developer Associate) e atualmente curso **Análise e Desenvolvimento de Sistemas**.
+
+Meu objetivo é construir **ambientes em nuvem escaláveis, resilientes e automatizados**, ajudando equipes a alcançarem eficiência por meio de **Infraestrutura como Código, pipelines CI/CD e práticas de observabilidade**.
+
+💡 Acredito que a tecnologia deve simplificar a complexidade — e é isso que busco fazer todos os dias.
+
+---
+
+## 🧰 Ferramentas e Tecnologias
+
+### ☁️ Nuvem & IaC
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-20232A?style=for-the-badge&logo=github&logoColor=white)
-## 💾 Databases
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🐳 Containers & Orquestração
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### 🔁 CI/CD & Automação
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### 🔎 Monitoramento & Observabilidade
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 💾 Bancos de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-## 📊 GitHub Stats
-![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinisanths&theme=dracula&show_icons=true&hide_border=true&layout=compact)
-## 🎓 Education
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🎓 Systems Analysis and Development (Currently) - Fasul Educacional
-- 🎓 Computer Technician - IFMA
-- 🎓 Quality Management - UEMA
-## 🏆 Certifications
-- 📚 Cloud Practitioner - Amazon Web Services
-- 📚 Solutions Architect Associate - Amazon Web Services
-- 📚 AWS Certified Developer Associate – Amazon Web Services
-- 📚 DPCN (Formação Arquiteto de Soluções AWS) - Escola da Nuvem
-- 📚 AWS Developer - Escola da Nuvem
-- 📚 AWS Re/Start - Escola Da Nuvem
-- 📚 English (A1) - IFMA
-## 📫 Contact
+---
 
-[![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinipsantos0@gmail.com)](mailto:vinipsantos0@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=blue&link=https://https://www.linkedin.com/in/vinicius-santos-info/)](https://www.linkedin.com/in/vinicius-santos-info/)
- [![Credly Badge](https://img.shields.io/badge/Credly-white?style=flat-square&logo=Credly)](https://www.credly.com/users/vinicius-santos.b3065c0f)
- [![Medium Badge](https://img.shields.io/badge/Medium-black?style=flat-square&logo=Medium)](https://medium.com/@vinisanths)
-<p> <img src="https://komarev.com/ghpvc/?username=vinisanths&label=Profile%20views&color=0e75b6&style=flat" alt="vinisanths" /> </p>
+## 🧱 Projetos em Destaque
 
-Feel free to get in touch to discuss collaborations, projects, or anything else related to programming and technology. 🚀
+| 🧩 Projeto | 🧠 Descrição | ⚙️ Tecnologias |
+|-------------|----------------|----------------|
+| [**EscolaDaNuvem - DPCN Labs**](https://github.com/vinisanths/EscolaDaNuvem-DPCN-Labs) | Conjunto de laboratórios práticos do curso **Formação Arquiteto de Soluções AWS (DPCN)** da Escola da Nuvem. Implementação de soluções escaláveis e seguras em AWS. | AWS, EC2, S3, CloudFormation, IAM |
+| [**Projeto EDN - Semana Dev AWS**](https://github.com/vinisanths/ProjetoEDN_SemanaDevAWS) | Projeto desenvolvido durante a **Semana Dev AWS**, com práticas de deploy automatizado e infraestrutura serverless. | AWS Lambda, API Gateway, S3, CloudFront |
+| [**EscolaDaNuvem - Labs Developer**](https://github.com/vinisanths/EscolaDaNuvem-Labs-Developer) | Laboratórios da formação **AWS Developer** na Escola da Nuvem. Criação de aplicações com automação de pipelines e integração contínua. | AWS, Docker, GitHub Actions, Python |
 
+---
+
+## 🎓 Formação e Certificações
+
+🎓 **Análise e Desenvolvimento de Sistemas** – Fasul Educacional  
+🎓 **Técnico em Informática** – IFMA  
+🎓 **Gestão da Qualidade** – UEMA  
+
+📜 **AWS Certified Cloud Practitioner**  
+📜 **AWS Certified Solutions Architect – Associate**  
+📜 **AWS Certified Developer – Associate**  
+📜 **AWS Re/Start & DPCN (Arquiteto de Soluções AWS)** – Escola da Nuvem  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinisanths&layout=compact&theme=dracula&hide_border=true)
+
+---
+
+## 🌐 Conecte-se Comigo
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-santos-info/)  [![Gmail Badge](https://img.shields.io/badge/Email-006bed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinipsantos0@gmail.com)  [![Credly Badge](https://img.shields.io/badge/Credly-white?style=for-the-badge&logo=credly&logoColor=orange)](https://www.credly.com/users/vinicius-santos.b3065c0f)  [![Medium Badge](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@vinisanths)
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vinisanths&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="vinisanths" />
+</p>
+
+<p align="center">
+  🌱 Sempre aprendendo. Sempre construindo. <br>
+  <b>#DevOps #SRE #Cloud #Automação</b>
+</p>
