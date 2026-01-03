@@ -76,7 +76,7 @@ Esta é a minha stack, combinando ferramentas que já domino com as que estou ap
 | [**EscolaDaNuvem - DPCN Labs**](https://github.com/vinisanths/EscolaDaNuvem-DPCN-Labs) | Conjunto de laboratórios práticos do curso **Formação Arquiteto de Soluções AWS (DPCN)** da Escola da Nuvem. Implementação de soluções escaláveis e seguras em AWS. | AWS, EC2, S3, CloudFormation, IAM |
 | [**Projeto EDN - Semana Dev AWS**](https://github.com/vinisanths/ProjetoEDN_SemanaDevAWS) | Projeto desenvolvido durante a **Semana Dev AWS**, com práticas de deploy automatizado e infraestrutura serverless. | AWS Lambda, API Gateway, S3, CloudFront |
 | [**EscolaDaNuvem - Labs Developer**](https://github.com/vinisanths/EscolaDaNuvem-Labs-Developer) | Laboratórios da formação **AWS Developer** na Escola da Nuvem. Criação de aplicações com automação de pipelines e integração contínua. | AWS, Docker, GitHub Actions, Python |
-| **(Em Breve)** | *Novos laboratórios cobrindo Terraform, Kubernetes e GitOps como parte da minha jornada atual de estudos.* | Terraform, K8s, Ansible, Jenkins |
+| [**Labs_DevOps**](https://github.com/vinisanths/Labs_DevOps) | Laboratórios cobrindo Terraform, Kubernetes e GitOps como parte da minha jornada atual de estudos. | Terraform, K8s, Ansible, Jenkins, Linux, Vagrant, GitLab...|
 
 ---
 
@@ -91,11 +91,6 @@ Esta é a minha stack, combinando ferramentas que já domino com as que estou ap
 📜 **AWS Certified Cloud Practitioner**  </br>
 📜 **AWS Re/Start & DPCN (Arquiteto de Soluções AWS)** – Escola da Nuvem  </br>
 
----
-
-## 📊 Estatísticas do GitHub
-
-![vinisanths's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=vinisanths&layout=compact&theme=dracula&hide_border=true)
 
 ---
 
